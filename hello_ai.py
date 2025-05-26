@@ -1,0 +1,1 @@
+print("Hello, AI World! Aditya is ready to learn AI.")
